@@ -1,1 +1,1 @@
-class persegipanjangmemb
+class persegipanjang
